@@ -1,6 +1,10 @@
 *.iml
 .gradle
 /local.properties
+# Android Studio / IntelliJ IDEA
+*.iws
+/.idea/tasks.xml
+/.idea/vcs.xml
 /.idea/caches/build_file_checksums.ser
 /.idea/libraries
 /.idea/modules.xml
