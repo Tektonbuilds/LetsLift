@@ -9,7 +9,15 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import butterknife.OnClick;
+
 public class MainActivity extends AppCompatActivity {
+
+    @OnClick(R.id.home_page_btn)
+    public void goToHomePage(View v) {
+        Intent intent = new Intent(getApplicationContext(), HomePageActivity.class);
+        startActivity(intent);
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
