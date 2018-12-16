@@ -3,4 +3,13 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <!--Color palette: -->
+    <!--https://www.boredpanda.com/nature-colors-palette-design-seeds-jessica-colaluca/?utm_source=google&utm_medium=organic&utm_campaign=organic -->
+    <!--Background?-->
+    <color name="rusticLightGray">#CDD0D7</color>
+    <color name="rusticGray">#5C6670</color>
+    <color name="rusticBlack">#212129</color>
+    <color name="mudBrown">#4A3637</color>
+    <color name="mudLightBrown">#A49693</color>
+    <color name="earthBeige">#D9CFCD</color>
 </resources>
